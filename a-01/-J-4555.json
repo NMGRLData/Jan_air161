@@ -1,0 +1,73 @@
+{
+    "aliquot": 4555, 
+    "analysis_type": "air", 
+    "collection_version": "0.1:0.1", 
+    "comment": "New Filament Trap 200 set to 28.201", 
+    "commit": "7ecb5bdb289de56c4412597b050c7ac104ef0c75", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 190.0, 
+            "gain": 0
+        }, 
+        "CDD": {
+            "deflection": 30.0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 400.0, 
+            "gain": 0
+        }, 
+        "L2": {
+            "deflection": 725.0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "jan_sniffair_x1.py", 
+    "identifier": "a-01-J", 
+    "increment": null, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NoIrradiation", 
+    "irradiation_level": "A", 
+    "irradiation_position": 1, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "jan", 
+    "material": "", 
+    "measurement": "jan_unknown400_120.py", 
+    "project": "", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Jan_air161", 
+    "sample": "air", 
+    "spec_sha": "5bed9503d5df16228ef87408e4bc3827873eb2f0", 
+    "timestamp": "2016-09-16T19:36:07.590012", 
+    "tripped_conditional": null, 
+    "username": "", 
+    "uuid": "8b11378c-0baa-4fc2-a40b-d0309daac9ea"
+}
